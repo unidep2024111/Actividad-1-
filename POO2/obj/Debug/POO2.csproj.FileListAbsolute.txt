@@ -1,0 +1,10 @@
+C:\Users\Vizm4\source\repos\POO2\POO2\bin\Debug\POO2.exe.config
+C:\Users\Vizm4\source\repos\POO2\POO2\bin\Debug\POO2.exe
+C:\Users\Vizm4\source\repos\POO2\POO2\bin\Debug\POO2.pdb
+C:\Users\Vizm4\source\repos\POO2\POO2\obj\Debug\POO2.csproj.AssemblyReference.cache
+C:\Users\Vizm4\source\repos\POO2\POO2\obj\Debug\POO2.Form1.resources
+C:\Users\Vizm4\source\repos\POO2\POO2\obj\Debug\POO2.Properties.Resources.resources
+C:\Users\Vizm4\source\repos\POO2\POO2\obj\Debug\POO2.csproj.GenerateResource.cache
+C:\Users\Vizm4\source\repos\POO2\POO2\obj\Debug\POO2.csproj.CoreCompileInputs.cache
+C:\Users\Vizm4\source\repos\POO2\POO2\obj\Debug\POO2.exe
+C:\Users\Vizm4\source\repos\POO2\POO2\obj\Debug\POO2.pdb
